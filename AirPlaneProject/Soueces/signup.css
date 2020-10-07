@@ -1,0 +1,14 @@
+.root{
+	-fx-font-size: 10pt;
+	-fx-background-image: url("people-inside-commercial-air-plane-1309644.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 900, 600;
+    -fx-background-position: center center;
+    -fx-background-opacity: 0;
+}
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}

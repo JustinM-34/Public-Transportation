@@ -1,0 +1,17 @@
+.root{
+	-fx-font-color: BLACK;
+	-fx-font-size: 10pt;
+	-fx-background-image: url("photo-of-person-typing-on-computer-keyboard-735911.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 800, 550;
+    -fx-background-position: center center;
+    -fx-background-opacity: 0;
+}
+.label {
+	-fx-text-fill: #e8e8e8;
+}
+.button{
+	-fx-background-color: #AB4642;
+	-fx-text-fill: #FFFFFF;
+	-fx-background-radius:2;
+}

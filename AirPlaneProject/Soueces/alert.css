@@ -1,0 +1,16 @@
+.root{
+	-fx-font-color: #FFFFFF;
+	-fx-font-size: 10pt;
+	-fx-background-image: url("kisspng-portable-network-graphics-computer-icons-error-ima-soylent-red-error-7-icon-free-soylent-red-error-5b7d3124044210.2536301815349312360175.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size:  400, 400;
+    -fx-background-position: center center;
+    -fx-background-opacity: 0;
+}
+.label {
+ 	-fx-font-size: 14px;
+	-fx-font-weight: bold;
+	-fx-text-fill: #000000;
+	-fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+     

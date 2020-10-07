@@ -1,0 +1,16 @@
+.root{
+	-fx-font-size: 10pt;
+	-fx-background-image: url("silhouette-of-airplane-over-body-of-water-1076033.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 800 500;
+    -fx-background-position: center center;
+    -fx-background-opacity: 0;
+}
+.label {
+	-fx-text-fill: #e8e8e8;
+}
+.button{
+	-fx-background-color: #AB4642;
+	-fx-text-fill: #FFFFFF;
+	-fx-background-radius:2;
+}
